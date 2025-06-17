@@ -6,6 +6,11 @@ This project provides learners with the opportunity to grasp complex architectur
 
 ## Technology Stack
 
+- Django
+- MySQL
+- GraphQL
+- CI/CD Pipeline
+
 ## Database Design
 
 ## Feature Breakdown
