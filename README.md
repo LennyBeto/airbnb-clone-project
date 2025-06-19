@@ -18,7 +18,7 @@ This project provides learners with the opportunity to grasp complex architectur
   
 ## Technology Stack
 
-- Django
+- Django (-) this is a high level Python web framework used for building the RESTful API.
 - Django REST Framework
 - PostgreSQL
 - GraphQL
