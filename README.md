@@ -11,7 +11,7 @@ This project provides learners with the opportunity to grasp complex architectur
 - The database administrator will be tasked with managing database designs, indexing and optimizations.
   
 ### DevOps Engineer
-- The DevOps engineer will be responsible for handling deployment, monitoring, and scaling of the backend services.
+- The DevOps engineer will be responsible for handling deployment, monitoring, and scaling of the backend services. He or she will facilitate cooperation between development and operations teams. He or she will also be responsible for building continuous integration and continuous delivery (CI/CD) pipelines for faster delivery.
   
 ### QA Engineer
 - The Quality Assurance engineer will be responsible for ensuring the backend functionalities are thoroughly tested and meet quality standards before release.
