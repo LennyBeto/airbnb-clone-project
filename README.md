@@ -7,8 +7,12 @@ This project provides learners with the opportunity to grasp complex architectur
 ## Technology Stack
 
 - Django
-- MySQL
+- Django REST Framework
+- PostgreSQL
 - GraphQL
+- Celery
+- Redis
+- Docker
 - CI/CD Pipeline
 
 ## Database Design
