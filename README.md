@@ -22,6 +22,11 @@ This project provides learners with the opportunity to grasp complex architectur
 
 ## Database Design
 
+The database will be optimized using:
+
+- Indexing
+- Caching
+
 ## Feature Breakdown
 
 ## API Security
