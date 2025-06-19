@@ -5,6 +5,8 @@ This project provides learners with the opportunity to grasp complex architectur
 ## Team Roles
 
 - Backend Developer
+The backend developer in this project is responsible for implementing the API endpoints, database schema and the business logic.
+
 - Database Administrator
 - DevOps Engineer
 - QA Engineer
