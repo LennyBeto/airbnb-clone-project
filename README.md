@@ -29,6 +29,15 @@ The database will be optimized using:
 
 ## Feature Breakdown
 
+The following will be featured in this project:
+
+- User Management
+- Property Management
+- Booking System
+- Payment Processing
+- Review System
+- Data Optimization
+
 ## API Security
 
 ## CI/CD Pipeline
