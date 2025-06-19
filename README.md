@@ -4,6 +4,11 @@ This project provides learners with the opportunity to grasp complex architectur
 
 ## Team Roles
 
+- Backend Developer
+- Database Administrator
+- DevOps Engineer
+- QA Engineer
+
 ## Technology Stack
 
 - Django
