@@ -8,9 +8,14 @@ This project provides learners with the opportunity to grasp complex architectur
 - The backend developer in this project is responsible for implementing the API endpoints, database schema and the business logic.
 
 ### Database Administrator
+- The database administrator will be tasked with managing database designs, indexing and optimizations.
+  
 ### DevOps Engineer
+- The DevOps engineer will be responsible for handling deployment, monitoring, and scaling of the backend services.
+  
 ### QA Engineer
-
+- The Quality Assurance engineer will be responsible for ensuring the backend functionalities are thoroughly tested and meet quality standards before release.
+  
 ## Technology Stack
 
 - Django
