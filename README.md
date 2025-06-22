@@ -18,7 +18,7 @@ This project provides learners with the opportunity to grasp complex architectur
   
 ## Technology Stack
 
-- Django "-" this is a high level Python web framework used for building the RESTful API.
+- Django 
 - Django REST Framework
 - PostgreSQL
 - GraphQL
@@ -38,12 +38,14 @@ The database will be optimized using:
 
 The following will be featured in this project:
 
-- User Management
-- Property Management
-- Booking System
-- Payment Processing
-- Review System
-- Data Optimization
+### User Management
+- This will implement a secure system for user registration, authentication, and profile management for this project.
+### Property Management
+
+### Booking System
+### Payment Processing
+### Review System
+### Data Optimization
 
 ## API Security
 
