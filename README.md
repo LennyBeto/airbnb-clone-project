@@ -38,11 +38,12 @@ The database will be optimized using:
 
 The following will be featured in this project:
 
-### User Management
+#### User Management
 - This will implement a secure system for user registration, authentication, and profile management for this project.
-### Property Management
-
-### Booking System
+#### Property Management
+- This will help develop features for property listing creation, updates, and retrieval.
+#### Booking System
+- This will assist in creating a booking mechanism for users to reserve properties and manage booking details.
 ### Payment Processing
 ### Review System
 ### Data Optimization
