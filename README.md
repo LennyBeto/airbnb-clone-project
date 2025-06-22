@@ -34,6 +34,14 @@ The database will be optimized using:
 - Indexing
 - Caching
 
+The key entities required for this project include:
+
+- Users
+- Properties
+- Bookings
+- Reviews
+- Payments
+
 ## Feature Breakdown
 
 The following will be featured in this project:
