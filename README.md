@@ -62,11 +62,12 @@ The following will be featured in this project:
 ## API Security
 
 The key security measures that will be implemented include:
-- Authentication
-  This will help in protecting the users' data.
-- Authorization
-  This will help in securing the payments of the users.
-- Rate limiting
-  This will help manage and regulate traffic flow, ensuring fair access to resources while protecting against abuse and potential denial-of-service attacks.
+#### Authentication
+- This will help in protecting the users' data.
+#### Authorization
+- This will help in securing the payments of the users.
+#### Rate limiting
+- This will help manage and regulate traffic flow, ensuring fair access to resources while protecting against abuse and potential denial-of-service attacks.
 
 ## CI/CD Pipeline
+- These enable rapid and reliable software delivery, ensuring that code changes are integrated, tested, and deployed efficiently. This process enhances collaboration among teams, reduces the risk of errors, and allows for quicker iterations, ultimately improving user experience and application stability.
