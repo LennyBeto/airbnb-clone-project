@@ -44,9 +44,12 @@ The following will be featured in this project:
 - This will help develop features for property listing creation, updates, and retrieval.
 #### Booking System
 - This will assist in creating a booking mechanism for users to reserve properties and manage booking details.
-### Payment Processing
-### Review System
-### Data Optimization
+#### Payment Processing
+- This feature will integrate a payment system to handle transactions and record payment details.
+#### Review System
+- This feature allows users to leave reviews and ratings for properties.
+#### Data Optimization
+- This feature will ensure efficient data retrieval and storage through database optimizations.
 
 ## API Security
 
