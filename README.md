@@ -71,3 +71,13 @@ The key security measures that will be implemented include:
 
 ## CI/CD Pipeline
 - These enable rapid and reliable software delivery, ensuring that code changes are integrated, tested, and deployed efficiently. This process enhances collaboration among teams, reduces the risk of errors, and allows for quicker iterations, ultimately improving user experience and application stability.
+
+  The tools that can be used to achieve this include:
+  - Github actions
+  - Docker
+  - Git
+  - AWS
+  - Terraform
+  - Salesforce DX
+  - Buildkite
+  - Packer
