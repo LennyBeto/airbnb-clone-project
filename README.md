@@ -1,4 +1,4 @@
-🏡 # StayEase: The Airbnb Clone Project Blueprint
+# 🏡 StayEase: The Airbnb Clone Project Blueprint
 
 ## Overview
 This project is a full-stack clone of the AirBnB platform, designed to provide a seamless accommodation booking experience.
