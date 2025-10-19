@@ -7,11 +7,11 @@ Users can browse properties, view detailed listings, and complete secure booking
 The application is built with modern web technologies, focusing on component-based architecture, clean code practices, and mobile-first design.
 
 ## Project Goals
--- ✅ Build a functional and intuitive booking platform
--- ✅ Implement responsive UI/UX following best design practices
--- ✅ Structure a scalable full-stack web application
--- ✅ Apply team collaboration using version control and agile methods
--- ✅ Ensure accessibility, security, and performance
+- ✅ Build a functional and intuitive booking platform
+- ✅ Implement responsive UI/UX following best design practices
+- ✅ Structure a scalable full-stack web application
+- ✅ Apply team collaboration using version control and agile methods
+- ✅ Ensure accessibility, security, and performance
 
 ## Tech Stack
    Layer	          Technology  
@@ -35,9 +35,9 @@ The application is built with modern web technologies, focusing on component-bas
 
 ## Primary Pages
 Page	                                          Description
-- Property Listing -- View	Grid display of available properties with search and filter options.
-- Listing Detailed -- View	Complete property details with images, pricing, amenities, and booking form.
-- Simple Checkout -- View	Secure, streamlined payment process with booking confirmation.
+- Property Listing - View	Grid display of available properties with search and filter options.
+- Listing Detailed - View	Complete property details with images, pricing, amenities, and booking form.
+- Simple Checkout - View	Secure, streamlined payment process with booking confirmation.
 
 ## Importance of User-Friendly Design
 A user-friendly booking system is critical to the success of this application because:
@@ -79,15 +79,23 @@ Identifying design properties (such as colors, typography, and spacing) from a m
 By documenting these properties early, teams can build more efficiently and ensure the final product aligns closely with the original design vision.
 
 ## 👥 Project Roles and Responsibilities
-Role	Responsibilities	Contribution to Success
-Project Manager	Oversees timeline, coordinates the team, manages deliverables, ensures milestones are met.	Ensures the project stays on track and meets deadlines efficiently.
-Frontend Developers	Build responsive UI components, implement design system, ensure accessibility and performance.	Deliver a high-quality, user-friendly interface that meets design standards.
-Backend Developers	Develop APIs, manage database structure, implement business logic and security.	Provide reliable data handling and core functionality for the application.
-Designers	Create mockups, define UI/UX patterns, maintain design consistency, work with developers for accurate implementation.	Ensure the application is visually appealing, intuitive, and aligned with brand identity.
-QA / Testers	Write and run test cases, perform manual and automated testing, report bugs, verify fixes.	Ensure the platform is stable, bug-free, and delivers a smooth user experience.
-DevOps Engineers	Set up CI/CD pipelines, manage deployment, monitor server infrastructure, handle scalability.	Ensure efficient deployment processes and reliable hosting of the application.
-Product Owner	Define requirements, prioritize features, gather stakeholder feedback, refine backlog.	Aligns the project with business goals and ensures development delivers value.
-Scrum Master	Facilitate agile ceremonies (stand-ups, sprints, retros), remove blockers, promote team collaboration.	Keeps the team focused, fosters a productive and adaptive work environment.
+### Role	### Responsibilities	### Contribution to Success
+#### Project Manager	
+Oversees timeline, coordinates the team, manages deliverables, ensures milestones are met.	Ensures the project stays on track and meets deadlines efficiently.
+#### Frontend Developers	
+Build responsive UI components, implement design system, ensure accessibility and performance.	Deliver a high-quality, user-friendly interface that meets design standards.
+#### Backend Developers	
+Develop APIs, manage database structure, implement business logic and security.	Provide reliable data handling and core functionality for the application.
+#### Designers	
+Create mockups, define UI/UX patterns, maintain design consistency, work with developers for accurate implementation.	Ensure the application is visually appealing, intuitive, and aligned with brand identity.
+#### QA / Testers	
+Write and run test cases, perform manual and automated testing, report bugs, verify fixes.	Ensure the platform is stable, bug-free, and delivers a smooth user experience.
+#### DevOps Engineers	
+Set up CI/CD pipelines, manage deployment, monitor server infrastructure, handle scalability.	Ensure efficient deployment processes and reliable hosting of the application.
+#### Product Owner	
+Define requirements, prioritize features, gather stakeholder feedback, refine backlog.	Aligns the project with business goals and ensures development delivers value.
+#### Scrum Master	
+Facilitate agile ceremonies (stand-ups, sprints, retros), remove blockers, promote team collaboration.	Keeps the team focused, fosters a productive and adaptive work environment.
 
 
 ## 🧩 UI Component Patterns
